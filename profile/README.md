@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I’m Harshil relentless problem‑solver and inno
    - AI/ML Engineering (PyTorch, LangChain, RAG‑based agents)  
    - Cloud & DevOps (Docker, CI/CD, AWS fundamentals)
 
-- 🛠 **Core Tech Stack**  
+- **Core Tech Stack**  
   - **Languages:** Python, C++, JavaScript
   - **Frameworks & Tools:** FastAPI, PyTorch, LangChain, Docker, Git/GitHub Actions  
   - **Cloud & Infra:** Docker Compose, AWS (EC2, S3 basics), Linux CLI, bash scripting  
