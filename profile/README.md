@@ -1,39 +1,35 @@
-# Harshil Makhija 
-Computer Science Student | Analytical Backend Developer & ML Engineer |
+# Harshil Makhija
 
-Welcome to my GitHub profile! I’m Harshil relentless problem‑solver and innovation junkie on a mission to architect scalable backend systems and build cutting‑edge AI/ML solutions. I thrive on end‑to‑end ownership: from spinning up Docker containers to orchestrating distributed pipelines and designing intelligent agents that learn and adapt.
+**Backend Developer | Machine Learning Engineer**
 
----
-
-## About Me
--  **Current Focus**  
-   - Backend Development (Python, FastAPI, C++)  
-   - AI/ML Engineering (PyTorch, LangChain, RAG‑based agents)  
-   - Cloud & DevOps (Docker, CI/CD, AWS fundamentals)
-
-- **Core Tech Stack**  
-  - **Languages:** Python, C++, JavaScript
-  - **Frameworks & Tools:** FastAPI, PyTorch, LangChain, Docker, Git/GitHub Actions  
-  - **Cloud & Infra:** Docker Compose, AWS (EC2, S3 basics), Linux CLI, bash scripting  
-
--  **Key Projects & Initiatives**  
-  1. **AI‑Powered RAG System**  
-     - Built browser‑automation pipelines for real‑time data retrieval and contextual retrieval‑augmented generation agents.  
-     - Integrated custom embeddings and fine‑tuned LLMs for domain‑specific query resolution.  
-  2. **Deep Learning Model Training App**  
-     - End‑to‑end prototype using PyTorch + FastAPI REST endpoints to launch training jobs and monitor metrics.  
-  3. **Generative Annotation Tool**  
-     - Leveraged vision models to auto‑annotate images/videos, cutting labeling time by 50%.  
-  4. **Chatbot with Live Internet Access**  
-     - Designed a conversational agent using LangChain + custom RAG logic for up‑to‑the‑minute knowledge.  
+I'm Harshil Makhija, a Machine Learning Engineer focused on crafting scalable backend systems and deploying intelligent software that delivers real-world value. My approach is practical, performance-driven, and grounded in solid engineering principles.
 
 ---
 
-## 📫 Get in Touch  
-I’m always game for cross‑functional collabs, research deep‑dives, or just geeking out over new tech. Let’s connect!
+## Professional Interests
 
-- Email: harshilmakhija@outlook.com  
-- LinkedIn: [Harshil Makhija](https://www.linkedin.com/in/harshil-makhija-500909353/)  
-- Twitter: [@MakhijaHarshil](https://twitter.com/MakhijaHarshil)
+* **Focus Areas:**
+  Deep Learning • Computer Vision • LLMOps • RAG Pipelines • Backend APIs
 
-Thank you for stopping by—let’s architect the future together!
+* **Tech Toolkit:**
+  Python • C++ • JavaScript • React.js • Next.js • PyTorch • FastAPI • LangChain • Docker • GCP
+
+---
+
+## Professional Ethos
+
+I thrive on tackling complex engineering problems end-to-end: architecting clear, fault‑tolerant backend services; optimizing machine learning workflows for efficient training and inference; and deploying scalable, maintainable systems that excel under real‑world demands. My ethos blends innovation with reliability, prioritizing modular design, rigorous testing, and performance tuning to deliver robust solutions, from microservices to RAG pipelines, that drive tangible value.
+
+---
+
+## Let’s Connect
+
+Open to collaborations, internship opportunities, and discussions on AI, backend engineering, and systems design.
+
+* Email: [harshilmakhija@outlook.com](mailto:harshilmakhija@outlook.com)
+* LinkedIn: [https://www.linkedin.com/in/harshil-makhija-500909353/](https://www.linkedin.com/in/harshil-makhija-500909353/)
+* Twitter: [https://twitter.com/MakhijaHarshil](https://twitter.com/MakhijaHarshil)
+
+---
+
+Thank you for visiting. Always learning, always building.
