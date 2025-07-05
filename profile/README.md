@@ -26,10 +26,9 @@ I thrive on tackling complex engineering problems end-to-end: architecting clear
 
 Open to collaborations, internship opportunities, and discussions on AI, backend engineering, and systems design.
 
-* Email: [harshilmakhija@outlook.com](mailto:harshilmakhija@outlook.com)
-* LinkedIn: [https://www.linkedin.com/in/harshil-makhija-500909353/](https://www.linkedin.com/in/harshil-makhija-500909353/)
-* Twitter: [https://twitter.com/MakhijaHarshil](https://twitter.com/MakhijaHarshil)
-
+* [harshilmakhija@outlook.com](mailto:harshilmakhija@outlook.com)  
+* [LinkedIn](https://www.linkedin.com/in/harshil-makhija-500909353/)  
+* [Twitter / X](https://twitter.com/MakhijaHarshil)
 ---
 
 Thank you for visiting. Always learning, always building.
