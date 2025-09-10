@@ -18,7 +18,7 @@ I'm Harshil Makhija, a Machine Learning Architect passionate about building scal
 
 ## Professional Ethos
 
-I excel at solving complex engineering challenges from concept to deployment: designing robust, fault-tolerant backend services; streamlining machine learning workflows for optimal training and inference; and building scalable, maintainable systems that perform reliably under real-world conditions. My philosophy balances innovation with dependability, emphasizing modular architecture, comprehensive testing, and performance optimization to deliver robust solutions—from microservices to RAG pipelines—that generate measurable business value.
+I excel at solving complex engineering challenges from concept to deployment: designing robust, fault-tolerant backend services; streamlining machine learning workflows for optimal training and inference; and building scalable, maintainable systems that perform reliably under real-world conditions. My philosophy balances innovation with dependability, emphasizing modular architecture, comprehensive testing, and performance optimization to deliver robust solutions from microservices to RAG pipelines that generate measurable business value.
 
 ---
 
