@@ -2,7 +2,7 @@
 
 **Backend Developer | Machine Learning Architect**
 
-I'm Harshil Makhija, a Machine Learning Architect passionate about building scalable backend systems and deploying intelligent software solutions that create real world impact. My approach combines practical problem solving with performance optimization, all grounded in solid engineering fundamentals.
+I'm Harshil, a Machine Learning Architect passionate about building scalable backend systems and deploying intelligent software solutions that create real world impact. My approach combines practical problem solving with performance optimization, all grounded in solid engineering fundamentals.
 
 ---
 
