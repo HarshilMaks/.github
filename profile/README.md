@@ -1,35 +1,57 @@
-# Harshil Makhija
+# Harshil Makhija  
+**Machine Learning Practitioner & Backend Systems Engineer**
 
-**Machine Learning Practioner**
+I work at the convergence of **AI systems, backend engineering, and cloud infrastructure**—building practical, scalable solutions that move from idea to deployed product.  
+My work spans LLM agents and RAG architectures to high-performance APIs that reliably serve ML models in production.
 
-I am a Machine Learning Architect passionate about building scalable backend systems and deploying intelligent software solutions that create real world impact. My approach combines practical problem solving with performance optimization, all grounded in solid engineering fundamentals.
+My approach is straightforward: design clean systems, ship iteratively, and scale with intent. Everything I build is rooted in engineering fundamentals and guided by a product-focused mindset.
 
 ---
 
 ## Professional Interests
 
-* **Focus Areas:**
-  Deep Learning • Computer Vision • LLMOps • RAG Pipelines • Backend APIs
+**Focus Areas**  
+Deep Learning • LLMOps • RAG Pipelines • Computer Vision  
+Backend APIs • Cloud-Native Architecture • System Design  
+Multi-Agent Systems • Model Serving • Vector Search
 
-* **Tech Toolkit:**
-  Python • C++ • JavaScript • React.js • Next.js • PyTorch • FastAPI • LangChain • Docker • GCP • AWS
+---
+
+## Core Stack
+
+**Languages:** Python · C++ · TypeScript  
+**AI & ML:** PyTorch · Transformers · Hugging Face · LangChain · LLMOps  
+**LLM Systems:** Agents · RAG · Prompt Engineering · Amazon Bedrock  
+**Model Ops:** TorchServe · MLflow  
+**Data & CV:** Pandas · NumPy · Matplotlib · Keras · Computer Vision · NLP  
+**Backend:** FastAPI · Django · Node.js · REST APIs · System Architecture  
+**Databases:** PostgreSQL · MongoDB · Redis  
+**Infrastructure & DevOps:** Docker · Kubernetes · Terraform · CI/CD · Microservices  
+**Cloud Platforms:** AWS · GCP  
+**Vector Databases:** Pinecone · FAISS · Weaviate · Milvus  
+**Frontend (Supportive):** Next.js · React
 
 ---
 
 ## Professional Ethos
 
-I excel at solving complex engineering challenges from concept to deployment: designing robust, fault-tolerant backend services; streamlining machine learning workflows for optimal training and inference; and building scalable, maintainable systems that perform reliably under real-world conditions. My philosophy balances innovation with dependability, emphasizing modular architecture, comprehensive testing, and performance optimization to deliver robust solutions from microservices to RAG pipelines that generate measurable business value.
+I enjoy building systems end-to-end: architecting services, developing ML workflows, and deploying everything through cloud-native pipelines.  
+My focus remains consistent across projects:
+
+- **Reliability:** Systems that hold up under real usage  
+- **Scalability:** Infrastructure that grows without friction  
+- **Maintainability:** Clear, modular, testable code  
+- **Performance:** Faster inference, optimised retrieval, efficient design  
+- **Impact:** Practical solutions powered by modern AI
+
+Whether it's a microservice architecture or a vector-search pipeline, I aim for clarity, robustness, and long-term maintainability.
 
 ---
 
-## Let's Connect
+## Connect
 
-I'm always open to exciting collaborations, internship opportunities, and engaging discussions about AI, backend engineering, and systems design.
+**Email:** harshilmakhija@outlook.com  
+**LinkedIn:** https://www.linkedin.com/in/harshil-makhija-500909353/  
+**X / Twitter:** https://twitter.com/MakhijaHarshil  
 
-* [harshilmakhija@outlook.com](mailto:harshilmakhija@outlook.com)  
-* [LinkedIn](https://www.linkedin.com/in/harshil-makhija-500909353/)  
-* [Twitter / X](https://twitter.com/MakhijaHarshil)
-
----
-
-Thanks for stopping by. Always learning, Always building.
+Always learning. Always building.
