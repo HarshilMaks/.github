@@ -10,7 +10,6 @@ My approach is straightforward: design clean systems, ship iteratively, and scal
 
 ## Professional Interests
 
-**Focus Areas**  
 Deep Learning • LLMOps • RAG Pipelines • Computer Vision  
 Backend APIs • Cloud-Native Architecture • System Design  
 Multi-Agent Systems • Model Serving • Vector Search
