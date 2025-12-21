@@ -1,7 +1,7 @@
 # Harshil Makhija  
 **Machine Learning Practitioner & Backend Systems Engineer**
 
-I work at the convergence of **AI systems, backend engineering, and cloud infrastructure** building practical, scalable solutions that move from idea to deployed product.  
+I work at the convergence of **AI systems, backend engineering, and cloud infrastructure**, building practical, scalable solutions that move from idea to deployed product.  
 My work spans LLM agents and RAG architectures to high-performance APIs that reliably serve ML models in production.
 
 My approach is straightforward: design clean systems, ship iteratively, and scale with intent. Everything I build is rooted in engineering fundamentals and guided by a product-focused mindset.
