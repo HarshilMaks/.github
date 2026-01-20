@@ -34,8 +34,7 @@ Multi-Agent Systems • Model Serving • Vector Search
 
 ## Professional Ethos
 
-I enjoy building systems end-to-end: architecting services, developing ML workflows, and deploying everything through cloud-native pipelines.  
-My focus remains consistent across projects:
+I enjoy building systems end-to-end: architecting services, developing ML workflows, and deploying everything through cloud-native pipelines. So my main focus remains consistent across projects:
 
 - **Reliability:** Systems that hold up under real usage  
 - **Scalability:** Infrastructure that grows without friction  
