@@ -20,15 +20,13 @@ Multi-Agent Systems • Model Serving • Vector Search
 
 **Languages:** Python · C++ · TypeScript  
 **AI & ML:** PyTorch · Transformers · Hugging Face · LangChain · LLMOps  
-**LLM Systems:** Agents · RAG · Prompt Engineering · Amazon Bedrock  
-**Model Ops:** TorchServe · MLflow  
+**LLM Systems:**  AI Agents · RAG · Agent Architectures · AWS Bedrock 
 **Data & CV:** Pandas · NumPy · Matplotlib · Keras · Computer Vision · NLP  
-**Backend:** FastAPI · Django · Node.js · REST APIs · System Architecture  
+**Backend:** FastAPI · Django · REST APIs · System Architecture  
 **Databases:** PostgreSQL · MongoDB · Redis  
-**Infrastructure & DevOps:** Docker · Kubernetes · Terraform · CI/CD · Microservices  
-**Cloud Platforms:** AWS · GCP  
-**Vector Databases:** Pinecone · FAISS · Weaviate · Milvus  
-**Frontend (Supportive):** Next.js · React
+**Infrastructure & DevOps:** Docker · CI/CD
+**Cloud Platforms:** AWS 
+**Vector Databases:** Pinecone· Milvus
 
 ---
 
