@@ -1,10 +1,7 @@
 # Harshil Makhija  
 **Machine Learning Practitioner & Backend Systems Engineer**
 
-I work at the convergence of **AI systems, backend engineering, and cloud infrastructure**, building practical, scalable solutions that move from idea to deployed product.  
-My work spans LLM agents and RAG architectures to high-performance APIs that reliably serve ML models in production.
-
-My approach is straightforward: design clean systems, ship iteratively, and scale with intent. Everything I build is rooted in engineering fundamentals and guided by a product-focused mindset.
+I work at the convergence of **AI systems, backend engineering, and cloud infrastructure**, building practical, scalable solutions that move from idea to deployed product. My work spans LLM agents and RAG architectures to high-performance APIs that reliably serve ML models in production. Designing clean systems to ship iteratively and scale with intent. Everything I build is rooted in engineering fundamentals and guided by a product-focused mindset.
 
 ---
 
@@ -20,19 +17,18 @@ Multi-Agent Systems • Model Serving • Vector Search
 
 **Languages:** Python · C++ · TypeScript  
 **AI & ML:** PyTorch · Transformers · Hugging Face · LangChain · LLMOps  
-**LLM Systems:**  AI Agents · RAG · Agent Architectures · AWS Bedrock
+**LLM Systems:**  AI Agents · RAG · Agent Architectures · AWS Bedrock  
 **Data & CV:** Pandas · NumPy · Matplotlib · Keras · Computer Vision · NLP  
 **Backend:** FastAPI · Django · REST APIs · System Architecture  
 **Databases:** PostgreSQL · MongoDB · Redis  
-**Infrastructure & DevOps:** Docker · CI/CD
-**Cloud Platforms:** AWS 
-**Vector Databases:** Pinecone· Milvus
+**Cloud Platforms & DevOps:** AWS · GCP · Docker · CI/CD  
+**Vector Databases:** Pinecone · Milvus
 
 ---
 
 ## Professional Ethos
 
-I enjoy building systems end-to-end: architecting services, developing ML workflows, and deploying everything through cloud-native pipelines. So my main focus remains consistent across projects:
+I enjoy building systems to production state: architecting services, developing ML workflows, and deploying everything through cloud-native pipelines. So my main focus remains consistent across projects:
 
 - **Reliability:** Systems that hold up under real usage  
 - **Scalability:** Infrastructure that grows without friction  
