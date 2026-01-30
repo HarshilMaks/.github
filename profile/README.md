@@ -20,7 +20,7 @@ Multi-Agent Systems • Model Serving • Vector Search
 
 **Languages:** Python · C++ · TypeScript  
 **AI & ML:** PyTorch · Transformers · Hugging Face · LangChain · LLMOps  
-**LLM Systems:**  AI Agents · RAG · Agent Architectures · AWS Bedrock 
+**LLM Systems:**  AI Agents · RAG · Agent Architectures · AWS Bedrock
 **Data & CV:** Pandas · NumPy · Matplotlib · Keras · Computer Vision · NLP  
 **Backend:** FastAPI · Django · REST APIs · System Architecture  
 **Databases:** PostgreSQL · MongoDB · Redis  
