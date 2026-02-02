@@ -15,13 +15,13 @@ Multi-Agent Systems • Model Serving • Vector Search
 
 ## Core Stack
 
-**Languages:** Python · C++ · TypeScript  
+**Languages:** Python · TypeScript  
 **AI & ML:** PyTorch · Transformers · Hugging Face · LangChain · LLMOps  
 **LLM Systems:**  AI Agents · RAG · Agent Architectures · AWS Bedrock  
 **Data & CV:** Pandas · NumPy · Matplotlib · Keras · Computer Vision · NLP  
 **Backend:** FastAPI · Django · REST APIs · System Architecture  
-**Databases:** PostgreSQL · MongoDB · Redis  
-**Cloud Platforms & DevOps:** AWS · GCP · Docker · CI/CD  
+**Databases:** PostgreSQL · Redis  
+**Cloud Platforms & DevOps:** AWS · Docker · CI/CD  
 **Vector Databases:** Pinecone · Milvus
 
 ---
