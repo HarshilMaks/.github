@@ -1,4 +1,4 @@
-<img width="1283" height="440" alt="image" src="https://github.com/user-attachments/assets/151019c0-5349-4752-a3c0-0d66a296898a" /># Harshil Makhija  
+# Harshil Makhija  
 **Machine Learning Practitioner & Backend Systems Engineer**
 
 I work at the convergence of **AI systems, backend engineering, and cloud infrastructure**, building practical, scalable solutions that move from idea to deployed product. My work spans LLM agents and RAG architectures to high-performance APIs that reliably serve ML models in production. Designing clean systems to ship iteratively and scale with intent. Everything I build is rooted in engineering fundamentals and guided by a product-focused mindset.
