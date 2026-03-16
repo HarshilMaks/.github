@@ -1,4 +1,4 @@
-# Harshil Makhija  
+<img width="1283" height="440" alt="image" src="https://github.com/user-attachments/assets/151019c0-5349-4752-a3c0-0d66a296898a" /># Harshil Makhija  
 **Machine Learning Practitioner & Backend Systems Engineer**
 
 I work at the convergence of **AI systems, backend engineering, and cloud infrastructure**, building practical, scalable solutions that move from idea to deployed product. My work spans LLM agents and RAG architectures to high-performance APIs that reliably serve ML models in production. Designing clean systems to ship iteratively and scale with intent. Everything I build is rooted in engineering fundamentals and guided by a product-focused mindset.
@@ -15,14 +15,12 @@ Multi-Agent Systems • Model Serving • Vector Search
 
 ## Core Stack
 
-**Languages:** Python · TypeScript  
-**AI & ML:** PyTorch · Transformers · Hugging Face · LangChain · LLMOps  
-**LLM Systems:**  AI Agents · RAG · Agent Architectures · AWS Bedrock  
-**Data & CV:** Pandas · NumPy · Matplotlib · Keras · Computer Vision · NLP  
-**Backend:** FastAPI · Django · REST APIs · System Architecture  
-**Databases:** PostgreSQL · Redis  
-**Cloud Platforms & DevOps:** AWS · Docker · CI/CD  
-**Vector Databases:** Pinecone · Milvus
+**Languages:** Python, TypeScript, C++, SQL
+**AI & ML:** PyTorch, Hugging Face Transformers, OpenCV, LangChain, LlamaIndex, RAG, Agentic AI
+**Backend & Databases:** FastAPI, NestJS, API Design, PostgreSQL, Redis, Milvus & Pinecone
+**Cloud & Infrastructure:** AWS (EC2, S3, EKS, Lambda, Bedrock), GCP (GKE, BigQuery)
+**DevOps & MLOps:** Docker, Terraform, GitHub Actions, MLflow, Airflow, Prefect, Weights & Biases
+**Observability & Systems:** Prometheus, Grafana, OpenTelemetry, Sentry, Microservices, gRPC, Event-Driven Architecture
 
 ---
 
