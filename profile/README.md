@@ -16,11 +16,11 @@ Multi-Agent Systems • Model Serving • Vector Search
 ## Core Stack
 
 **Languages:** Python, TypeScript, C++, SQL
-**AI & ML:** PyTorch, Hugging Face Transformers, OpenCV, LangChain, LlamaIndex, RAG, Agentic AI
-**Backend & Databases:** FastAPI, NestJS, API Design, PostgreSQL, Redis, Milvus & Pinecone
-**Cloud & Infrastructure:** AWS (EC2, S3, EKS, Lambda, Bedrock), GCP (GKE, BigQuery)
-**DevOps & MLOps:** Docker, Terraform, GitHub Actions, MLflow, Airflow, Prefect, Weights & Biases
-**Observability & Systems:** Prometheus, Grafana, OpenTelemetry, Sentry, Microservices, gRPC, Event-Driven Architecture
+**AI & ML:** PyTorch, Hugging Face Transformers, OpenCV, LangChain, LlamaIndex, RAG, Agentic AI  
+**Backend & Databases:** FastAPI, NestJS, API Design, PostgreSQL, Redis, Milvus & Pinecone   
+**Cloud & Infrastructure:** AWS (EC2, S3, EKS, Lambda, Bedrock), GCP (GKE, BigQuery)   
+**DevOps & MLOps:** Docker, Terraform, GitHub Actions, MLflow, Airflow, Prefect, Weights & Biases   
+**Observability & Systems:** Prometheus, Grafana, OpenTelemetry, Sentry, Microservices, gRPC, Event-Driven Architecture   
 
 ---
 
