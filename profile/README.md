@@ -15,7 +15,7 @@ Multi-Agent Systems • Model Serving • Vector Search
 
 ## Core Stack
 
-**Languages:** Python, TypeScript, C++, SQL
+**Languages:** Python, TypeScript, C++, SQL    
 **AI & ML:** PyTorch, Hugging Face Transformers, OpenCV, LangChain, LlamaIndex, RAG, Agentic AI  
 **Backend & Databases:** FastAPI, NestJS, API Design, PostgreSQL, Redis, Milvus & Pinecone   
 **Cloud & Infrastructure:** AWS (EC2, S3, EKS, Lambda, Bedrock), GCP (GKE, BigQuery)   
