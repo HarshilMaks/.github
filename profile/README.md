@@ -41,7 +41,7 @@ Whether it's a microservice architecture or a vector-search pipeline, I aim for 
 ## Connect
 
 **Email:** harshilmakhija@outlook.com  
-**LinkedIn:** https://www.linkedin.com/in/harshil-makhija
+**LinkedIn:** https://www.linkedin.com/in/harshil-makhija         
 **X / Twitter:** https://twitter.com/MakhijaHarshil  
 
 Always learning. Always building.
