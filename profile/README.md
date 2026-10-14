@@ -6,11 +6,11 @@ I build LLM agents, RAG pipelines and the backend services that run them in prod
 
 ## Skills
 
-**Languages** — Python · TypeScript · Go · C++ · SQL
-**AI / ML** — LLM agents & orchestration · RAG · multi-agent systems · PyTorch · Transformers · LangChain · LlamaIndex · Computer Vision · MLflow
-**Backend** — FastAPI · NestJS · REST · gRPC · Celery · PostgreSQL · Redis · Vector databases (Milvus)
-**Cloud & Infra** — AWS · GCP · Docker · Terraform · Cloudflare · Vercel
-**Architecture** — Microservices · event-driven systems · API design · system design
+- **Languages:** Python · TypeScript · Go · C++ · SQL
+- **AI / ML:** LLM agents & orchestration · RAG · multi-agent systems · PyTorch · Transformers · LangChain · LlamaIndex · Computer Vision · MLflow
+- **Backend:** FastAPI · NestJS · REST · gRPC · Celery · PostgreSQL · Redis · Vector databases (Milvus)
+- **Cloud & Infra:** AWS · GCP · Docker · Terraform · Cloudflare · Vercel
+- **Architecture:** Microservices · event-driven systems · API design · system design
 
 ## Connect
 
