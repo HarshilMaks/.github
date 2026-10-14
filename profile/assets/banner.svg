@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-labelledby="t d">
+  <title id="t">Harshil Makhija, AI Systems Engineer</title>
+  <desc id="d">Banner with the name Harshil Makhija, the title AI Systems Engineer, and the focus areas LLM agents, RAG, backend and cloud, beside a network of connected nodes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#1b2740"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="14" fill="url(#bg)"/>
+
+  <!-- connected-node motif -->
+  <g stroke="#38bdf8" stroke-opacity="0.35" stroke-width="1.5" fill="none">
+    <path d="M760 70 L880 120 L1000 60 L1120 110"/>
+    <path d="M880 120 L940 200 L1060 180 L1120 110"/>
+    <path d="M760 70 L820 190 L940 200"/>
+    <path d="M1000 60 L1060 180"/>
+  </g>
+  <g fill="#0b1220" stroke="url(#accent)" stroke-width="2.5">
+    <circle cx="760" cy="70" r="9"/>
+    <circle cx="880" cy="120" r="12"/>
+    <circle cx="1000" cy="60" r="9"/>
+    <circle cx="1120" cy="110" r="11"/>
+    <circle cx="820" cy="190" r="8"/>
+    <circle cx="940" cy="200" r="10"/>
+    <circle cx="1060" cy="180" r="8"/>
+  </g>
+  <g fill="#38bdf8" fill-opacity="0.9">
+    <circle cx="880" cy="120" r="4"/>
+    <circle cx="1120" cy="110" r="4"/>
+    <circle cx="940" cy="200" r="3.5"/>
+  </g>
+
+  <!-- text -->
+  <rect x="64" y="64" width="64" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="64" y="132" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="58" font-weight="700" fill="#f1f5f9" letter-spacing="-1">Harshil Makhija</text>
+  <text x="64" y="176" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="27" font-weight="600" fill="#7dd3fc">AI Systems Engineer</text>
+  <text x="64" y="212" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="19" fill="#94a3b8" letter-spacing="0.5">LLM agents  ·  RAG  ·  Backend  ·  Cloud</text>
+</svg>
