@@ -2,37 +2,31 @@
 
 AI Systems Engineer · Bengaluru, India
 
-I build the parts of an AI product that sit around the model: the agent loop, retrieval, the API, the queue, and the cloud it all runs on. What I care about most is what happens when something goes wrong.
+I build the agents, retrieval, APIs and cloud infrastructure around AI models. I care most about what happens when something goes wrong.
 
 [Email](mailto:harshilmakhija@outlook.com) · [LinkedIn](https://www.linkedin.com/in/harshil-makhija/) · [X](https://twitter.com/MakhijaHarshil) · [Hugging Face](https://huggingface.co/HarshilMaks)
 
-## What I work on
+## Focus
 
-- **LLM agents and multi-agent systems**
-  - Orchestration, tool use and workflows where an agent proposes and a person approves anything that changes the outside world.
-- **Retrieval and RAG pipelines**
-  - Vector search and retrieval tuned for relevance, with answers that point back to sources you can open and check.
-- **Model serving and LLMOps**
-  - Models behind APIs, with experiment tracking, deployment and the monitoring needed to keep them healthy.
-- **Backend APIs and system design**
-  - REST and gRPC services, async workers and event-driven designs, built on PostgreSQL and Redis.
-- **Cloud-native architecture**
-  - Containerised, reproducible delivery on AWS and GCP, with infrastructure defined as code.
-- **Deep learning and computer vision**
-  - Model building and fine-tuning in PyTorch, from classification to geospatial imagery.
+- **Agents:** orchestration, tool use, and human approval for anything with side effects
+- **Retrieval:** vector search and RAG pipelines that cite their sources
+- **Model serving:** APIs, experiment tracking, deployment and monitoring
+- **Backend:** REST and gRPC services, async workers, PostgreSQL and Redis
+- **Cloud:** containerised, reproducible delivery on AWS and GCP, with infrastructure as code
+- **Deep learning:** PyTorch model building and fine-tuning, including computer vision
 
-## How I build
+## Approach
 
-Before an AI feature ships, it has to answer a few questions.
+Before an AI feature ships, it has to answer these.
 
-- **What can the agent touch?** Tools are scoped per task, and anything that reads untrusted input gets none.
-- **Who approves it?** The agent drafts. A person signs off on anything that leaves the building.
-- **What does a retry do?** Writes carry idempotency keys, so a second attempt never sends the email twice.
-- **What if the outcome is unknown?** When a provider times out mid-write, a reconciliation job checks what happened instead of guessing.
-- **Where did the answer come from?** Every claim links back to the passage that supports it.
-- **How would I know it's wrong?** Traces, audit logs and evals, so a mistake shows up on a dashboard and not in a customer's inbox.
+- **Scope.** Each agent gets only the tools its task needs, and none when it reads untrusted input.
+- **Approval.** Agents draft. A person signs off on anything that leaves the building.
+- **Retries.** Writes carry idempotency keys, so a retry never repeats an action.
+- **Unknown outcomes.** After a timeout, a reconciliation job checks what happened instead of guessing.
+- **Evidence.** Every answer links to the passage that supports it.
+- **Observability.** Traces, audit logs and evals surface mistakes before users do.
 
-## What I build with
+## Skills
 
 | Area | Tools |
 | :--- | :--- |
@@ -44,7 +38,8 @@ Before an AI feature ships, it has to answer a few questions.
 
 ## Contact
 
-Email is the fastest way to reach me: [harshilmakhija@outlook.com](mailto:harshilmakhija@outlook.com)
+- **Open source:** open an issue or pull request on any of my repositories.
+- **Work and everything else:** [harshilmakhija@outlook.com](mailto:harshilmakhija@outlook.com)
 
 <!--
 Owner: Harshil. Last reviewed: 2026-10-14.
