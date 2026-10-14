@@ -1,17 +1,26 @@
 # Harshil Makhija
 
-**AI Systems Engineer** at [Hexel Studio](https://www.hexelstudio.com/) · Bengaluru, India
+**AI Systems Engineer** · [Hexel Studio](https://www.hexelstudio.com/?utm_source=github&utm_medium=profile) · Bengaluru, India
 
-I build LLM agents, RAG pipelines and the backend services that run them in production. I like the parts that make AI systems dependable: clean APIs, solid data layers, observability and cloud-native deployment.
+I make AI features dependable enough to ship: LLM agents with human approval gates, RAG that cites its sources, and the Python backends, data stores and cloud setup they run on.
 
-## Skills
+**Work with me:** [harshilmakhija@outlook.com](mailto:harshilmakhija@outlook.com) · [LinkedIn](https://www.linkedin.com/in/harshil-makhija/)
 
-- **Languages:** Python · TypeScript · Go · C++ · SQL
-- **AI / ML:** LLM agents & orchestration · RAG · multi-agent systems · PyTorch · Transformers · LangChain · LlamaIndex · Computer Vision · MLflow
-- **Backend:** FastAPI · NestJS · REST · gRPC · Celery · PostgreSQL · Redis · Vector databases (Milvus)
-- **Cloud & Infra:** AWS · GCP · Docker · Terraform · Cloudflare · Vercel
-- **Architecture:** Microservices · event-driven systems · API design · system design
+My best work is in the pinned repositories below.
 
-## Connect
+## Stack
 
-[Website](https://www.hexelstudio.com/) · [LinkedIn](https://www.linkedin.com/in/harshil-makhija/) · [X](https://twitter.com/MakhijaHarshil) · [Hugging Face](https://huggingface.co/HarshilMaks) · [Email](mailto:harshilmakhija@outlook.com)
+- **AI / ML:** LLM agents and orchestration · RAG · multi-agent systems · PyTorch · Transformers · LangChain · LlamaIndex · computer vision · MLflow
+- **Backend:** Python · FastAPI · NestJS · Go · TypeScript · REST · gRPC · Celery · event-driven systems · microservices
+- **Data:** PostgreSQL · Redis · vector databases (Milvus) · SQL
+- **Cloud:** AWS · GCP · Docker · Terraform · Cloudflare · Vercel
+
+## Elsewhere
+
+[X](https://twitter.com/MakhijaHarshil) · [Hugging Face](https://huggingface.co/HarshilMaks) · [Website](https://www.hexelstudio.com/?utm_source=github&utm_medium=profile)
+
+<!--
+Owner: Harshil. Last reviewed: 2026-10-14.
+Review when: role or employer changes, a new job search starts, a major launch or talk, or the stack list stops matching real work.
+Pins are set by hand on the profile page, not in this file.
+-->
