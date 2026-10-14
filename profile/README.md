@@ -1,18 +1,22 @@
 # Harshil Makhija
 
-**AI Systems Engineer** · Backend · Cloud · Bengaluru, India
+**AI Systems Engineer** · LLM agents · RAG · Backend · Cloud
 
-I build the systems around language models: agents, retrieval pipelines, and the backend and cloud services that keep them dependable in production.
+I build AI systems that hold up after the demo: agents that stay inside their limits, retrieval you can verify, and the backend and cloud work underneath.
 
 [Email](mailto:harshilmakhija@outlook.com) · [LinkedIn](https://www.linkedin.com/in/harshil-makhija/) · [X](https://twitter.com/MakhijaHarshil) · [Hugging Face](https://huggingface.co/HarshilMaks)
+
+- **Focus:** LLM agents, retrieval-augmented generation (RAG), model serving, backend APIs, cloud-native delivery
+- **Works in:** Python, TypeScript, Go, C++, SQL
+- **Based in:** Bengaluru, India
 
 ---
 
 ## About
 
-My work sits where AI systems, backend engineering and cloud infrastructure meet. I take an idea through design, build and deployment, and I care as much about how a system behaves on its hundredth day in production as on its first demo.
+Most of my work sits between the model and the user: the orchestration, data and infrastructure that decide whether an AI feature is dependable. I take a problem from design through deployment, and I judge a system by how it behaves on its hundredth day in production, not only in its first demo.
 
-I work from engineering fundamentals and a product mindset: clean service boundaries, clear data flow, and code that someone else can read, test and extend.
+I work from engineering fundamentals and a product mindset: clear service boundaries, honest data flow, and code that someone else can read, test and extend.
 
 ---
 
@@ -25,7 +29,7 @@ Orchestration, tool use and workflows where an agent proposes and a person appro
 Vector search and retrieval tuned for relevance, with answers that point back to sources you can open and check.
 
 **Model serving and LLMOps**
-Getting models behind reliable APIs, with experiment tracking, deployment and the monitoring needed to keep them healthy.
+Models behind reliable APIs, with experiment tracking, deployment and the monitoring needed to keep them healthy.
 
 **Backend APIs and system design**
 REST and gRPC services, async workers and event-driven designs, built on PostgreSQL and Redis.
@@ -40,11 +44,11 @@ Model building and fine-tuning in PyTorch, from classification to geospatial ima
 
 ## Where I Can Help
 
-- **Taking an AI prototype to production:** hardening a working demo into a service with proper APIs, data stores, deployment and monitoring
-- **Building agent and retrieval systems:** designing the orchestration, tool access and approval flow, plus retrieval that cites its sources
-- **Designing backends for AI workloads:** async processing, queues, caching and clean service boundaries that stay maintainable as they grow
-- **Serving and operating models:** packaging, deploying and tracking models so they run reliably and can be improved over time
-- **Setting up cloud delivery:** containerised, repeatable infrastructure on AWS or GCP, defined as code
+- **Taking an AI prototype to production:** turning a working demo into a service with proper APIs, data stores, deployment and monitoring
+- **Building agent and retrieval systems:** the orchestration, tool access and approval flow, plus retrieval that cites its sources
+- **Designing backends for AI workloads:** async processing, queues, caching and service boundaries that stay maintainable as they grow
+- **Serving and operating models:** packaging, deploying and tracking models so they run reliably and keep improving
+- **Setting up cloud delivery:** repeatable, containerised infrastructure on AWS or GCP, defined as code
 
 ---
 
@@ -59,13 +63,13 @@ flowchart LR
     E --> B
 ```
 
-Every step ends in something measurable, so the next decision rests on evidence instead of guesses.
+In words: define the problem, design the system, build and evaluate it, deploy to the cloud, then observe and improve, looping back into design. Every step ends in something measurable, so the next decision rests on evidence.
 
 ---
 
 ## Principles
 
-| | |
+| Principle | What it means in practice |
 | :--- | :--- |
 | **Reliability** | Systems that hold up under real usage |
 | **Scalability** | Infrastructure that grows without friction |
