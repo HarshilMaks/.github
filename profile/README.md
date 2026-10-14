@@ -1,85 +1,26 @@
 # Harshil Makhija
 
-**AI Systems Engineer · Backend & Cloud**
+AI systems engineer at [Hexel Studio](https://www.hexelstudio.com/?utm_source=github&utm_medium=profile), based in Bengaluru.
 
-I build the systems around language models: agents, retrieval, and the backend services that make them dependable in production.
+## What I do
 
-[Email](mailto:harshilmakhija@outlook.com) · [LinkedIn](https://www.linkedin.com/in/harshil-makhija/) · [X](https://twitter.com/MakhijaHarshil) · [Hugging Face](https://huggingface.co/HarshilMaks) · [Hexel Studio](https://www.hexelstudio.com/?utm_source=github&utm_medium=profile)
+I take AI from idea to deployed product. That covers the model and retrieval work, the backend services around it, and the cloud setup that keeps it running. The goal is simple: AI features dependable enough to ship.
 
----
+## How I build
 
-## Engineering Philosophy
+I want systems that hold up under real use. Reliable first, then scalable, with clear modular code that someone else can pick up and maintain. I tune for faster inference and sharper retrieval, and I judge the result by whether it helps the people using it.
 
-> A model is one component.
-> The system around it decides whether it can be trusted.
+## Skills
 
-So I design AI features like any other production system:
+- **Languages:** Python · TypeScript · Go · C++ · SQL
+- **AI / ML:** LLM agents · RAG · multi-agent systems · PyTorch · Transformers · LangChain · LlamaIndex · computer vision · MLflow
+- **Backend:** FastAPI · NestJS · Celery · REST · gRPC · microservices · event-driven design
+- **Data:** PostgreSQL · Redis · vector databases
+- **Cloud:** AWS · GCP · Docker · Terraform · Cloudflare
 
-- **Consequential actions need a human.** Agents propose, people approve anything that changes the outside world.
-- **Answers carry their evidence.** Every claim should trace back to a source someone can open and check.
-- **Failure is a normal case.** Calls time out and workflows stop halfway, so retries, idempotency and clear state are designed in early.
-- **Isolation by default.** Untrusted code runs in sandboxes and tenants never see each other's data.
-- **Behavior is observable.** If I can't see what a system did and why, I can't fix it or trust it.
+## Get in touch
 
----
-
-## System Architecture
-
-The layers I work across:
-
-```text
-  Product & APIs             REST · gRPC · auth · multi-tenancy
-          ▲
-  Cloud & Delivery           Docker · AWS · GCP · Terraform · CI/CD
-          ▲
-  Data Layer                 PostgreSQL · Redis · vector search
-          ▲
-  Agents & Orchestration     tools · workflows · multi-agent coordination
-          ▲
-  Retrieval & Context        RAG · embeddings · citations
-          ▲
-  Models                     LLMs · PyTorch · Transformers · serving
-```
-
----
-
-## What I Work On
-
-| Area | In practice |
-| :--- | :--- |
-| **Agent Systems** | Orchestration, tool use, human-in-the-loop approval, multi-agent workflows |
-| **Knowledge Systems** | RAG pipelines, embeddings, vector search, source citations |
-| **Backend & APIs** | FastAPI, NestJS, REST, gRPC, async workers, event-driven services |
-| **Model Serving & MLOps** | PyTorch, Transformers, experiment tracking, deployment |
-| **Cloud & Infrastructure** | AWS, GCP, Docker, Terraform, Cloudflare |
-| **Computer Vision** | Image classification and geospatial imagery with deep learning |
-
----
-
-## Problems I Care About
-
-1. Keeping an agent inside hard limits on what it can touch
-2. Making AI answers traceable back to evidence
-3. Recovering cleanly when a workflow fails halfway
-4. Serving models with predictable latency and cost
-5. Keeping services maintainable as they grow
-6. Turning prototypes into systems other teams can run
-
----
-
-## Stack
-
-| Layer | Tools |
-| :--- | :--- |
-| **Languages** | Python · TypeScript · Go · C++ · SQL |
-| **AI / ML** | PyTorch · Transformers · LangChain · LlamaIndex · RAG · LLM agents · MLflow |
-| **Backend** | FastAPI · NestJS · Celery · REST · gRPC · microservices |
-| **Data** | PostgreSQL · Redis · Milvus |
-| **Cloud** | AWS · GCP · Docker · Terraform · Cloudflare · Vercel |
-
----
-
-*Always learning. Always building.*
+Email me at [harshilmakhija@outlook.com](mailto:harshilmakhija@outlook.com), or find me on [LinkedIn](https://www.linkedin.com/in/harshil-makhija/), [X](https://twitter.com/MakhijaHarshil) and [Hugging Face](https://huggingface.co/HarshilMaks).
 
 <!--
 Owner: Harshil. Last reviewed: 2026-10-14.
